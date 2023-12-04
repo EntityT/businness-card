@@ -2,10 +2,6 @@
 
 Quick start:
 
-```
-$ npm install
-$ npm start
-````
 click the link to view 
 
 https://inspiring-cucurucho-b0e848.netlify.app/
