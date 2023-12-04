@@ -6,6 +6,6 @@ Quick start:
 $ npm install
 $ npm start
 ````
-click link to view 
+click the link to view 
 
-https://inspiring-cucurucho-b0e848.netlify.app
+https://inspiring-cucurucho-b0e848.netlify.app/
